@@ -1,0 +1,10 @@
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\bin\Debug\BDD Bienes Inmuebles.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\bin\Debug\Bienes.mdb
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\bin\Debug\BDD Bienes Inmuebles.exe
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\bin\Debug\BDD Bienes Inmuebles.pdb
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\obj\Debug\BDD Bienes Inmuebles.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\obj\Debug\BDD_Bienes_Inmuebles.FrmPrincipal.resources
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\obj\Debug\BDD_Bienes_Inmuebles.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\obj\Debug\BDD Bienes Inmuebles.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\obj\Debug\BDD Bienes Inmuebles.exe
+c:\users\danie\documents\visual studio 2015\Projects\BDD Bienes Inmuebles\BDD Bienes Inmuebles\obj\Debug\BDD Bienes Inmuebles.pdb

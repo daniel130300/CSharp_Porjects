@@ -1,0 +1,11 @@
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\bin\Debug\Zoologico.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\bin\Debug\Zoologico.exe
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\bin\Debug\Zoologico.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\obj\Debug\Zoologico.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\obj\Debug\Zoologico.Aves.resources
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\obj\Debug\Zoologico.Form1.resources
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\obj\Debug\Zoologico.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\obj\Debug\Zoologico.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\obj\Debug\Zoologico.exe
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\obj\Debug\Zoologico.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Zoologico\Zoologico\obj\Debug\Zoologico.Insectos.resources

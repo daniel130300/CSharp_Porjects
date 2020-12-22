@@ -1,0 +1,11 @@
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\bin\Debug\Animales BDD.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\bin\Debug\Animales BDD.exe
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\bin\Debug\Animales BDD.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\obj\Debug\Animales BDD.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\obj\Debug\Animales_BDD.FrmPrincipal.resources
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\obj\Debug\Animales_BDD.FrmAve.resources
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\obj\Debug\Animales_BDD.FrmInsecto.resources
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\obj\Debug\Animales_BDD.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\obj\Debug\Animales BDD.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\obj\Debug\Animales BDD.exe
+c:\users\danie\documents\visual studio 2015\Projects\Animales BDD\Animales BDD\obj\Debug\Animales BDD.pdb

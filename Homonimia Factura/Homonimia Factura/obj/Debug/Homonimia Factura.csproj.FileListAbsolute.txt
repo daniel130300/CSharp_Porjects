@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2015\Projects\Homonimia Factura\Homonimia Factura\bin\Debug\Homonimia Factura.exe.config
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Homonimia Factura\Homonimia Factura\bin\Debug\Homonimia Factura.exe
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Homonimia Factura\Homonimia Factura\bin\Debug\Homonimia Factura.pdb
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Homonimia Factura\Homonimia Factura\obj\Debug\Homonimia Factura.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Homonimia Factura\Homonimia Factura\obj\Debug\Homonimia_Factura.Form1.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Homonimia Factura\Homonimia Factura\obj\Debug\Homonimia_Factura.Properties.Resources.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Homonimia Factura\Homonimia Factura\obj\Debug\Homonimia Factura.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Homonimia Factura\Homonimia Factura\obj\Debug\Homonimia Factura.exe
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Homonimia Factura\Homonimia Factura\obj\Debug\Homonimia Factura.pdb

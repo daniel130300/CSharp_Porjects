@@ -1,0 +1,11 @@
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\bin\Debug\Instrumentos.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\bin\Debug\Instrumentos.exe
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\bin\Debug\Instrumentos.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\obj\Debug\Instrumentos.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\obj\Debug\Instrumentos.FrmInventario.resources
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\obj\Debug\Instrumentos.FrmViento.resources
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\obj\Debug\Instrumentos.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\obj\Debug\Instrumentos.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\obj\Debug\Instrumentos.exe
+c:\users\danie\documents\visual studio 2015\Projects\Instrumentos\Instrumentos\obj\Debug\Instrumentos.pdb
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Instrumentos\Instrumentos\obj\Debug\Instrumentos.FrmCuerda.resources

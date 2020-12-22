@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Form1.resources
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+c:\users\danie\documents\visual studio 2015\Projects\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb

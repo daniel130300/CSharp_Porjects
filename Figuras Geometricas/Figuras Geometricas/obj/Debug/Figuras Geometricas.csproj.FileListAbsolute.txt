@@ -1,0 +1,12 @@
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\bin\Debug\Figuras Geometricas.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\bin\Debug\Figuras Geometricas.exe
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\bin\Debug\Figuras Geometricas.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras Geometricas.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras_Geometricas.Form1.resources
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras_Geometricas.FrmCirculo.resources
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras_Geometricas.FrmRectangulo.resources
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras_Geometricas.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras Geometricas.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras Geometricas.exe
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras Geometricas.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Figuras Geometricas\Figuras Geometricas\obj\Debug\Figuras_Geometricas.FrmTriangulo.resources

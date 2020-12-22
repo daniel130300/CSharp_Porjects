@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\bin\Debug\Sucursales.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\bin\Debug\Sucursales.exe
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\bin\Debug\Sucursales.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\obj\Debug\Sucursales.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\obj\Debug\Sucursales.Form1.resources
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\obj\Debug\Sucursales.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\obj\Debug\Sucursales.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\obj\Debug\Sucursales.exe
+c:\users\danie\documents\visual studio 2015\Projects\Sucursales\Sucursales\obj\Debug\Sucursales.pdb

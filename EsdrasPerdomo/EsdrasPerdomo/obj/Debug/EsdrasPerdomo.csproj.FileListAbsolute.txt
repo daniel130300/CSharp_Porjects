@@ -1,0 +1,10 @@
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\bin\Debug\EsdrasPerdomo.exe.config
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\bin\Debug\EsdrasPerdomo.exe
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\bin\Debug\EsdrasPerdomo.pdb
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\obj\Debug\EsdrasPerdomo.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\obj\Debug\EsdrasPerdomo.Form1.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\obj\Debug\EsdrasPerdomo.Properties.Resources.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\obj\Debug\EsdrasPerdomo.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\obj\Debug\EsdrasPerdomo.exe
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\obj\Debug\EsdrasPerdomo.pdb
+C:\Users\danie\Documents\Visual Studio 2015\Projects\EsdrasPerdomo\EsdrasPerdomo\bin\Debug\BDDRentas1.mdb

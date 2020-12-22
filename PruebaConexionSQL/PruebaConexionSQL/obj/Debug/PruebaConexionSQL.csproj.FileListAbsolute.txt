@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\bin\Debug\PruebaConexionSQL.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\bin\Debug\PruebaConexionSQL.exe
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\bin\Debug\PruebaConexionSQL.pdb
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\obj\Debug\PruebaConexionSQL.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\obj\Debug\PruebaConexionSQL.Form1.resources
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\obj\Debug\PruebaConexionSQL.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\obj\Debug\PruebaConexionSQL.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\obj\Debug\PruebaConexionSQL.exe
+c:\users\danie\documents\visual studio 2015\Projects\PruebaConexionSQL\PruebaConexionSQL\obj\Debug\PruebaConexionSQL.pdb

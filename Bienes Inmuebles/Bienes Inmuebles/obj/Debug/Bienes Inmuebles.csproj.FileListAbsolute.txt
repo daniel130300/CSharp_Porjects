@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\bin\Debug\Bienes Inmuebles.exe.config
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\bin\Debug\Bienes Inmuebles.exe
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\bin\Debug\Bienes Inmuebles.pdb
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\obj\Debug\Bienes Inmuebles.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\obj\Debug\Bienes_Inmuebles.FrmPrincipal.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\obj\Debug\Bienes_Inmuebles.Properties.Resources.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\obj\Debug\Bienes Inmuebles.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\obj\Debug\Bienes Inmuebles.exe
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Bienes Inmuebles\Bienes Inmuebles\obj\Debug\Bienes Inmuebles.pdb

@@ -1,0 +1,11 @@
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\bin\Debug\Examen_Melvin.exe.config
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\bin\Debug\Examen_Melvin.exe
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\bin\Debug\Examen_Melvin.pdb
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\obj\Debug\Examen_Melvin.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\obj\Debug\Examen_Melvin.FrmPrincipal.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\obj\Debug\Examen_Melvin.FrmPrestamoHipotecario.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\obj\Debug\Examen_Melvin.FrmPrestamoPersonal.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\obj\Debug\Examen_Melvin.Properties.Resources.resources
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\obj\Debug\Examen_Melvin.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\obj\Debug\Examen_Melvin.exe
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Examen_Melvin\Examen_Melvin\obj\Debug\Examen_Melvin.pdb
